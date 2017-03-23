@@ -49,23 +49,23 @@ $i18n_key_words = array(
 'menu.profile' => 'Perfil',
 'menu.time' => 'Tiempo',
 // TODO: translate the following string.
-// 'menu.expenses' => 'Expenses',
+'menu.expenses' => 'Gastos',
 'menu.reports' => 'Reportes',
 // Note to translators: menu.charts needs to be translated.
-// 'menu.charts' => 'Charts',
+'menu.charts' => 'Gráficos',
 'menu.projects' => 'Proyectos',
 // TODO: translate menu.tasks.
-// 'menu.tasks' => 'Tasks',
+'menu.tasks' => 'Tareas',
 'menu.users' => 'Personas',
 'menu.teams' => 'Equipos',
 // Note to translators: menu.export needs to be translated.
-// 'menu.export' => 'Export',
+'menu.export' => 'Exportar',
 'menu.clients' => 'Clientes',
 'menu.options' => 'Opciones',
 
 // Footer - strings on the bottom of most pages.
 // TODO: translate the following strings.
-// 'footer.contribute_msg' => 'You can contribute to Time Tracker in different ways.'
+'footer.contribute_msg' => 'Puedes contribuir con el proyecto de varias maneras.'
 // 'footer.credits' => 'Credits',
 // 'footer.license' => 'License',
 // 'footer.improve' => 'Contribute', // Translators: this could mean "Improve", if it makes better sense in your language.
@@ -73,8 +73,8 @@ $i18n_key_words = array(
 
 // Error messages.
 // TODO: translate the following strings.
-// 'error.access_denied' => 'Access denied.',
-// 'error.sys' => 'System error.',
+'error.access_denied' => 'Acceso negado.',
+'error.sys' => 'Error de Sistema.',
 'error.db' => 'Error de la Base de Datos.',
 'error.field' => 'Dato "{0}" incorrecto.',
 'error.empty' => 'El archivo "{0}" esta vacío.',
@@ -83,9 +83,9 @@ $i18n_key_words = array(
 // 'error.interval' => 'Field "{0}" must be greater than "{1}".',
 'error.project' => 'Seleccionar Proyecto.',
 // TODO: translate the following strings.
-// 'error.task' => 'Select task.',
-// 'error.client' => 'Select client.',
-// 'error.report' => 'Select report.',
+'error.task' => 'Seleccione tarea.',
+'error.client' => 'Seleccione cliente.',
+'error.report' => 'Seleccione reporte.',
 'error.auth' => 'Usuario o contraseña incorrecta.',
 // Note to translators: this string needs to be translated.
 // 'error.user_exists' => 'User with this login already exists.',
@@ -113,17 +113,17 @@ $i18n_key_words = array(
 'button.now' => 'Ahora',
 'button.save' => 'Guardar',
 // TODO: translate the following string.
-// 'button.copy' => 'Copy',
+'button.copy' => 'Copiar',
 'button.cancel' => 'Cancelar',
 'button.submit' => 'Enviar',
 'button.add_user' => 'Agregar usuario ',
 'button.add_project' => 'Agregar proyecto',
 // TODO: translate button.add_task
-// 'button.add_task' => 'Add task',
+'button.add_task' => 'Agregar Tarea',
 'button.add_client' => 'Agregar cliente',
 // TODO: translate the following strings.
-// 'button.add_invoice' => 'Add invoice',
-// 'button.add_option' => 'Add option',
+'button.add_invoice' => 'Agregar Factura',
+'button.add_option' => 'Agregar opción',
 'button.add' => 'Agregar',
 'button.generate' => 'Generar',
 // Note to translators: button.reset_password needs an improved translation.
